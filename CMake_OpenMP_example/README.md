@@ -1,12 +1,12 @@
-# How to use OpenMP with CMake
+# How to use `OpenMP` with CMake
 
 ## installation of library
 
 * In MacOS:
     ```console
-    brew install Eigen3
+    brew install libomp
     ```
-* In Linux (Ubuntu) there is no need as `gcc` already supports -fopenmp
+* In Linux (Ubuntu) there is no need as `gcc` already supports `-fopenmp`
 
 ## Usage the `OMP` library with cmake
 
