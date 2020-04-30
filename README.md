@@ -1,4 +1,4 @@
-# CMake
+# CMake Hello World Examples
 Working minimal C++ examples for using CMake to compile snippets with libraries: 
 * Eigen3, 
 * OpenMP, 
